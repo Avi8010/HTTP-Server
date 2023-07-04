@@ -1,0 +1,4 @@
+brotli
+lzw3
+Pillow
+requests
