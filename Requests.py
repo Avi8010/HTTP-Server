@@ -18,7 +18,7 @@ from config import *
 
 TIME_DIFF = 19800
 SUPPORTED_METHODS = ["GET", "POST", "PUT", "DELETE", "HEAD"]
-POST_FILE_PATH = ""
+POST_FILE_PATH = "/home/avi/RequestHandler/post.txt"
 MAX_DELETE_SIZE = 100
 
 
