@@ -1,4 +1,4 @@
-# WebtiQ : HTTP-Server
+# HTTP-Server
 
 ## Usage:
 1. git clone https://github.com/Avi8010/HTTP-Server.git
